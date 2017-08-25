@@ -7,5 +7,5 @@ order: 1
 
 * [Course Syllabus]({{ site.baseurl }}/data/info/csc210-2017_fall_syllabus.pdf) 
 * [How to Succeed in this Course]({{ site.baseurl }}/data/info/HowToSucceed.pdf)
-* [Running Java Programs Using Eclipse]({{ site.baseurl }}/data/info/Eclipse.pdf)
+* [Installing and Running Java Programs Using Eclipse]({{ site.baseurl }}/data/info/Eclipse.pdf)
 
