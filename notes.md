@@ -6,7 +6,7 @@ order: 2
 exclude_from_nav: false
 ---
 * [Chapter 1 Notes]({{ site.baseurl }}/data/notes/chapter1.zip)
-% * [Chapter 2 Notes]({{ site.baseurl }}/data/notes/chapter2.zip)
+* [Chapter 2 Notes]({{ site.baseurl }}/data/notes/chapter2.zip)
 {% comment %}
 * [Chapter 3 Notes]({{ site.baseurl }}/data/notes/chapter3.zip)
 * [Guessing Game Program]({{ site.baseurl }}/data/notes/guessingGame.java)
