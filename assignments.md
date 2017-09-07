@@ -10,10 +10,10 @@ exclude_from_nav: false
 	* Sign up for your zyBook at <a href = "http://zybooks.com">http://zybooks.com</a> using your Eastern e-mail address. The zyBook code can be found in the syllabus.
 	* Sign up for <a href = "http://www.piazza.com">Piazza</a> using your Eastern e-mail address. You will be getting an e-mail with more information shortly. 
 	* Install <a href = "https://eclipse.org">Eclipse Oxygen </a> on your personal computer (Instructions under <a href = "http://gdancik.github.io/CSC-210/info/">Course Information</a>) 
-<hr>
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/08/2017) 
+<hr>
+* Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/15/2017) 
 {% comment %}
-* Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 2/3/2017) 
 * Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 2/10/2017)
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Friday, 2/10/2017)  
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 3/03/2017)
