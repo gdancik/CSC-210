@@ -14,7 +14,7 @@ exclude_from_nav: false
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/15/2017) 
 <hr>
 * Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/22/2017)
-* [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Friday, 9/25/2017)
+* [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Monday, 9/25/2017)
  
 {% comment %}
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 3/03/2017)
