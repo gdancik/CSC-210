@@ -15,9 +15,8 @@ exclude_from_nav: false
 <hr>
 * Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/22/2017)
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Monday, 9/25/2017)
- 
+* Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 10/06/2017)
 {% comment %}
-* Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 3/03/2017)
 * [Prime Number Program]({{ site.baseurl }}/data/hw/prime.java) (in-class assignment)  
 * [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Due: Friday, 3/24/2017)  
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 3/27/2017)
