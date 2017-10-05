@@ -16,8 +16,8 @@ exclude_from_nav: false
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Monday, 9/25/2017)
 <hr>
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: <strike>Friday, 10/06/2017</strike>Monday, 10/09/2017)
-{% comment %}
 * [Prime Number Program]({{ site.baseurl }}/data/hw/prime.java) (in-class assignment)  
+{% comment %}
 * [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Due: Friday, 3/24/2017)  
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 3/27/2017)
 * [Array Assignments]({{ site.baseurl }}/data/hw/arrayAssignments.zip) (Door Program (completed in class); Tic-Tac-Toe Due: Wednesday, 4/12/2017)  
