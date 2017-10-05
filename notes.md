@@ -10,8 +10,8 @@ exclude_from_nav: false
 * [Chapter 3 Notes]({{ site.baseurl }}/data/notes/chapter3.zip)
 * [Guessing Game Program]({{ site.baseurl }}/data/notes/guessingGame.java)
 * [Chapter 4 Notes]({{ site.baseurl }}/data/notes/chapter4.zip)
-{% comment %}
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
+{% comment %}
 * [Chapter 5 Notes]({{ site.baseurl }}/data/notes/chapter5.zip)
 * [Chapter 6 Notes]({{ site.baseurl }}/data/notes/chapter6.zip)
 * [Unit Testing Examples]({{ site.baseurl }}/data/notes/JUnitExample.zip)
