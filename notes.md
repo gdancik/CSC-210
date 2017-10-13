@@ -11,8 +11,8 @@ exclude_from_nav: false
 * [Guessing Game Program]({{ site.baseurl }}/data/notes/guessingGame.java)
 * [Chapter 4 Notes]({{ site.baseurl }}/data/notes/chapter4.zip)
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
-{% comment %}
 * [Chapter 5 Notes]({{ site.baseurl }}/data/notes/chapter5.zip)
+{% comment %}
 * [Chapter 6 Notes]({{ site.baseurl }}/data/notes/chapter6.zip)
 * [Unit Testing Examples]({{ site.baseurl }}/data/notes/JUnitExample.zip)
 * [Text Editor Program]({{ site.baseurl }}/data/notes/textEditor.zip)
