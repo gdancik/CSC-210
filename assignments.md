@@ -16,10 +16,10 @@ exclude_from_nav: false
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Monday, 9/25/2017)
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: <strike>Friday, 10/06/2017</strike>Monday, 10/09/2017)
 * [Prime Number Program]({{ site.baseurl }}/data/hw/prime.java) (in-class assignment)  
-<hr>
 * [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Due: Monday, 10/16/2017)  
+<hr>
+* Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 10/23/2017)
 {% comment %}
-* Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 3/27/2017)
 * [Array Assignments]({{ site.baseurl }}/data/hw/arrayAssignments.zip) (Door Program (completed in class); Tic-Tac-Toe Due: Wednesday, 4/12/2017)  
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2017-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 4/21/2017)
