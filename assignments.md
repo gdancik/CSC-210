@@ -19,7 +19,7 @@ exclude_from_nav: false
 * [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Due: Monday, 10/16/2017)  
 <hr>
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 10/23/2017)
-* [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Friday, 10/20/2017)  
+* [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 10/23/2017)  
 {% comment %}
 * [Array Assignments]({{ site.baseurl }}/data/hw/arrayAssignments.zip) (Door Program (completed in class); Tic-Tac-Toe Due: Wednesday, 4/12/2017)  
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2017-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
