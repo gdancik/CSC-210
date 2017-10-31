@@ -12,8 +12,8 @@ exclude_from_nav: false
 * [Chapter 4 Notes]({{ site.baseurl }}/data/notes/chapter4.zip)
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
 * [Chapter 5 Notes]({{ site.baseurl }}/data/notes/chapter5.zip)
-{% comment %}
 * [Chapter 6 Notes]({{ site.baseurl }}/data/notes/chapter6.zip)
+{% comment %}
 * [Unit Testing Examples]({{ site.baseurl }}/data/notes/JUnitExample.zip)
 * [Text Editor Program]({{ site.baseurl }}/data/notes/textEditor.zip)
 	* [Authoring Assistant]({{ site.baseurl }}/data/notes/AuthoringAssistant.java)
