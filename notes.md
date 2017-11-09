@@ -13,6 +13,7 @@ exclude_from_nav: false
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
 * [Chapter 5 Notes]({{ site.baseurl }}/data/notes/chapter5.zip)
 * [Chapter 6 Notes]({{ site.baseurl }}/data/notes/chapter6.zip)
+    * [Recursion]({{ site.baseurl }}/data/notes/recursion.zip)
 {% comment %}
 * [Unit Testing Examples]({{ site.baseurl }}/data/notes/JUnitExample.zip)
 * [Text Editor Program]({{ site.baseurl }}/data/notes/textEditor.zip)
