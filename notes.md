@@ -15,10 +15,8 @@ exclude_from_nav: false
 * [Chapter 6 Notes]({{ site.baseurl }}/data/notes/chapter6.zip)
     * [Recursion]({{ site.baseurl }}/data/notes/recursion.zip)
 * [Unit Testing Examples]({{ site.baseurl }}/data/notes/JUnitExample.zip)
-{% comment %}
-* [Text Editor Program]({{ site.baseurl }}/data/notes/textEditor.zip)
-	* [Authoring Assistant]({{ site.baseurl }}/data/notes/AuthoringAssistant.java)
 * [Chapter 7 Notes]({{ site.baseurl }}/data/notes/chapter7.zip)
+{% comment %}
 	* [Pong Program]({{ site.baseurl }}/data/notes/pong.zip)
 * [Wrap Up]({{ site.baseurl }}/data/notes/CSC-210-Wrap-Up.pdf)
 {% endcomment %}
