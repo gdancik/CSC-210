@@ -24,6 +24,7 @@ exclude_from_nav: false
 * [Unit Testing Assignment]({{ site.baseurl }}/data/hw/rectangleUnitTestAssignment.zip) (in-class assignment, 11/13/17)
 <hr>
 * [Text Editor]({{ site.baseurl }}/data/hw/textEditor.zip) (Due: Wednesday, 11/29/2017) (submit through [Blackboard](https://easternct.blackboard.com/)) 
+* Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 12/04/2017) (counts towards participation grade)
 {% comment %}
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2017-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
 
