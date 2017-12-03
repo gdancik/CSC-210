@@ -18,7 +18,6 @@ exclude_from_nav: false
 * [Chapter 7 Notes]({{ site.baseurl }}/data/notes/chapter7.zip)
 	* [Pong Program]({{ site.baseurl }}/data/notes/pong.zip)
 * [Algorithm Notes]({{ site.baseurl }}/data/notes/Algorithms.pdf)
-
-{% comment %}
 * [Wrap Up]({{ site.baseurl }}/data/notes/CSC-210-Wrap-Up.pdf)
+{% comment %}
 {% endcomment %}
