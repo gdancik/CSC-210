@@ -6,6 +6,7 @@ order: 2
 exclude_from_nav: false
 ---
 * [Chapter 1 Notes]({{ site.baseurl }}/data/notes/chapter1.zip)
+{% comment %}
 * [Chapter 2 Notes]({{ site.baseurl }}/data/notes/chapter2.zip)
 * [Chapter 3 Notes]({{ site.baseurl }}/data/notes/chapter3.zip)
 * [Guessing Game Program]({{ site.baseurl }}/data/notes/guessingGame.java)
@@ -19,5 +20,4 @@ exclude_from_nav: false
 	* [Pong Program]({{ site.baseurl }}/data/notes/pong.zip)
 * [Algorithm Notes]({{ site.baseurl }}/data/notes/Algorithms.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/CSC-210-Wrap-Up.pdf)
-{% comment %}
 {% endcomment %}

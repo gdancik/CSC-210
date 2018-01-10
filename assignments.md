@@ -10,6 +10,7 @@ exclude_from_nav: false
 	* Sign up for your zyBook at <a href = "http://zybooks.com">http://zybooks.com</a> using your Eastern e-mail address. The zyBook code can be found in the syllabus.
 	* Sign up for <a href = "http://www.piazza.com">Piazza</a> using your Eastern e-mail address. You will be getting an e-mail with more information shortly. 
 	* Install <a href = "https://eclipse.org">Eclipse Oxygen </a> on your personal computer (Instructions under <a href = "http://gdancik.github.io/CSC-210/info/">Course Information</a>) 
+{% comment %}
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/08/2017) 
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/15/2017) 
 * Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/22/2017)
@@ -26,7 +27,6 @@ exclude_from_nav: false
 * [Text Editor]({{ site.baseurl }}/data/hw/textEditor.zip) (Due: Wednesday, 11/29/2017) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 * Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 12/04/2017) (counts towards participation grade)
 * [Algorithm Assignment]({{ site.baseurl }}/data/hw/AlgorithmAssignment.pdf) (in-class 12/1 and Piazza)
-{% comment %}
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2017-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
 
 ***

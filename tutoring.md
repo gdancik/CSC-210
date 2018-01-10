@@ -3,7 +3,7 @@ layout: page
 title: Tutoring 
 permalink: /tutoring/
 order: 4
-exclude_from_nav: false
+exclude_from_nav: true
 ---
 
 Computer Science majors, David D'Haiti and Sean Manierre, will be available for tutoring
