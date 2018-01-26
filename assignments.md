@@ -11,24 +11,24 @@ exclude_from_nav: false
 	* Sign up for <a href = "http://www.piazza.com">Piazza</a> using your Eastern e-mail address. You will be getting an e-mail with more information shortly. 
 	* Install <a href = "https://eclipse.org">Eclipse Oxygen </a> on your personal computer (Instructions under <a href = "http://gdancik.github.io/CSC-210/info/">Course Information</a>) 
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 1/26/2018)
-* Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
-{% comment %}
-* Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/15/2017) 
-* Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/22/2017)
-* [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Monday, 9/25/2017)
-* Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: <strike>Friday, 10/06/2017</strike>Monday, 10/09/2017)
-* [Prime Number Program]({{ site.baseurl }}/data/hw/prime.java) (in-class assignment)  
-* [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Due: Monday, 10/16/2017)  
-* Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 10/23/2017)
-* [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 10/23/2017)  
-* [Tic-Tac-Toe]({{ site.baseurl }}/data/hw/TicTacToe.java) (Due: Monday, 10/30/2017) (submit through [Blackboard](https://easternct.blackboard.com/)) 
-* Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 11/13/2017)
-* [Unit Testing Assignment]({{ site.baseurl }}/data/hw/rectangleUnitTestAssignment.zip) (in-class assignment, 11/13/17)
 <hr>
-* [Text Editor]({{ site.baseurl }}/data/hw/textEditor.zip) (Due: Wednesday, 11/29/2017) (submit through [Blackboard](https://easternct.blackboard.com/)) 
-* Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 12/04/2017) (counts towards participation grade)
+* Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
+* Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 2/02/2018) 
+{% comment %}
+* Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/22/2018)
+* [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Monday, 9/25/2018)
+* Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: <strike>Friday, 10/06/2018</strike>Monday, 10/09/2018)
+* [Prime Number Program]({{ site.baseurl }}/data/hw/prime.java) (in-class assignment)  
+* [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Due: Monday, 10/16/2018)  
+* Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 10/23/2018)
+* [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 10/23/2018)  
+* [Tic-Tac-Toe]({{ site.baseurl }}/data/hw/TicTacToe.java) (Due: Monday, 10/30/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
+* Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 11/13/2018)
+* [Unit Testing Assignment]({{ site.baseurl }}/data/hw/rectangleUnitTestAssignment.zip) (in-class assignment, 11/13/17)
+* [Text Editor]({{ site.baseurl }}/data/hw/textEditor.zip) (Due: Wednesday, 11/29/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
+* Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 12/04/2018) (counts towards participation grade)
 * [Algorithm Assignment]({{ site.baseurl }}/data/hw/AlgorithmAssignment.pdf) (in-class 12/1 and Piazza)
-* Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2017-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
+* Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2018-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
 
 ***
 
