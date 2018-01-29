@@ -7,10 +7,9 @@ exclude_from_nav: false
 ---
 * [Chapter 1 Notes]({{ site.baseurl }}/data/notes/chapter1.zip)
 * [Chapter 2 Notes]({{ site.baseurl }}/data/notes/chapter2.zip)
-    * [tempConversion.java]({{ site.baseurl }}/data/notes/tempConversion.java)
+* [Chapter 3 Notes]({{ site.baseurl }}/data/notes/chapter3.zip)
 
 {% comment %}
-* [Chapter 3 Notes]({{ site.baseurl }}/data/notes/chapter3.zip)
 * [Guessing Game Program]({{ site.baseurl }}/data/notes/guessingGame.java)
 * [Chapter 4 Notes]({{ site.baseurl }}/data/notes/chapter4.zip)
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
