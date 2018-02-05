@@ -14,8 +14,8 @@ exclude_from_nav: false
 <hr>
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 2/02/2018) 
+* Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 2/09/2018)
 {% comment %}
-* Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/22/2018)
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Monday, 9/25/2018)
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: <strike>Friday, 10/06/2018</strike>Monday, 10/09/2018)
 * [Prime Number Program]({{ site.baseurl }}/data/hw/prime.java) (in-class assignment)  
