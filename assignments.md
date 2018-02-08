@@ -11,12 +11,12 @@ exclude_from_nav: false
 	* Sign up for <a href = "http://www.piazza.com">Piazza</a> using your Eastern e-mail address. You will be getting an e-mail with more information shortly. 
 	* Install <a href = "https://eclipse.org">Eclipse Oxygen </a> on your personal computer (Instructions under <a href = "http://gdancik.github.io/CSC-210/info/">Course Information</a>) 
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 1/26/2018)
-<hr>
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 2/02/2018) 
 * Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 2/09/2018)
+<hr>
+* [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (in-class assignment, 2/09/2018)
 {% comment %}
-* [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (Due: Monday, 9/25/2018)
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: <strike>Friday, 10/06/2018</strike>Monday, 10/09/2018)
 * [Prime Number Program]({{ site.baseurl }}/data/hw/prime.java) (in-class assignment)  
 * [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Due: Monday, 10/16/2018)  
