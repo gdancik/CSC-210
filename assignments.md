@@ -19,8 +19,8 @@ exclude_from_nav: false
 <hr>
 * [Prime Number Assignments]({{ site.baseurl }}/data/hw/PrimeNumberAssignment.pdf) (Due: Wednesday, 3/7/2018, submit through [Blackboard](https://easternct.blackboard.com/)) 
 * [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Due: Friday, 3/09/2018, submit through [Blackboard](https://easternct.blackboard.com/)) 
+* Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 3/23/2018)
 {% comment %}
-* Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 10/23/2018)
 * [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 10/23/2018)  
 * [Tic-Tac-Toe]({{ site.baseurl }}/data/hw/TicTacToe.java) (Due: Monday, 10/30/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 11/13/2018)
