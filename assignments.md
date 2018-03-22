@@ -21,9 +21,8 @@ exclude_from_nav: false
 <hr>
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 3/23/2018)
 * [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 3/26/2018, submit through [Blackboard](https://easternct.blackboard.com/)) 
-
+* [Tic-Tac-Toe]({{ site.baseurl }}/data/hw/TicTacToe.java) (Due: Wednesday, 3/28/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 {% comment %}
-* [Tic-Tac-Toe]({{ site.baseurl }}/data/hw/TicTacToe.java) (Due: Monday, 10/30/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 11/13/2018)
 * [Unit Testing Assignment]({{ site.baseurl }}/data/hw/rectangleUnitTestAssignment.zip) (in-class assignment, 11/13/17)
 * [Text Editor]({{ site.baseurl }}/data/hw/textEditor.zip) (Due: Wednesday, 11/29/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
