@@ -23,7 +23,7 @@ exclude_from_nav: false
 * [Tic-Tac-Toe]({{ site.baseurl }}/data/hw/TicTacToe.java) (Due: Wednesday, 3/28/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 <hr>
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 4/13/2018)
-* [Unit Testing Assignment]({{ site.baseurl }}/data/hw/rectangleUnitTestAssignment.zip) (in-class assignment, 04/09/2018)
+* [Unit Testing Assignment]({{ site.baseurl }}/data/hw/JUnitExample.zip) (in-class assignment, 04/09/2018)
 {% comment %}
 * [Text Editor]({{ site.baseurl }}/data/hw/textEditor.zip) (Due: Wednesday, 11/29/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 * Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 12/04/2018) (counts towards participation grade)
