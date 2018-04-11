@@ -24,8 +24,8 @@ exclude_from_nav: false
 <hr>
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 4/13/2018)
 * [Unit Testing Assignment]({{ site.baseurl }}/data/hw/JUnitExample.zip) (in-class assignment, 04/09/2018)
+* [Blackjack]({{ site.baseurl }}/data/hw/Blackjack.pdf) (Due: Wednesday, 4/25/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 {% comment %}
-* [Text Editor]({{ site.baseurl }}/data/hw/textEditor.zip) (Due: Wednesday, 11/29/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 * Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 12/04/2018) (counts towards participation grade)
 * [Algorithm Assignment]({{ site.baseurl }}/data/hw/AlgorithmAssignment.pdf) (in-class 12/1 and Piazza)
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2018-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
