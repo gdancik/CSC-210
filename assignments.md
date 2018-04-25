@@ -24,7 +24,7 @@ exclude_from_nav: false
 <hr>
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 4/13/2018)
 * [Unit Testing Assignment]({{ site.baseurl }}/data/hw/JUnitExample.zip) (in-class assignment, 04/09/2018)
-* [Blackjack]({{ site.baseurl }}/data/hw/Blackjack.pdf) (Due: Wednesday, 4/25/2018) (submit through [Blackboard](https://easternct.blackboard.com/))
+* [Blackjack]({{ site.baseurl }}/data/hw/Blackjack.pdf) (Due: <strike>Wednesday, 4/25/2018</strike> <span style = "color:red">Monday, 4/30/2018</span>) (submit through [Blackboard](https://easternct.blackboard.com/))
     * Correction: the dealer hits if holding 16 or less 
 {% comment %}
 * Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 12/04/2018) (counts towards participation grade)
