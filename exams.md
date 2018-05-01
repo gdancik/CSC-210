@@ -9,7 +9,7 @@ order: 4
 
 * [Exam I Practice Material]({{ site.baseurl }}/data/exams/ExamIPractice.zip)
 * [Exam II Practice Material]({{ site.baseurl }}/data/exams/examII_practice.zip)
+* [Exam III Practice Material]({{ site.baseurl }}/data/exams/examIIIPractice.zip)
 {% comment %}
-* [Exam III Practice Material]({{ site.baseurl }}/data/exams/examIII_practice.zip)
 {% endcomment %}
 
