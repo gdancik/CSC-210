@@ -21,12 +21,12 @@ exclude_from_nav: false
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 3/23/2018)
 * [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 3/26/2018, submit through [Blackboard](https://easternct.blackboard.com/)) 
 * [Tic-Tac-Toe]({{ site.baseurl }}/data/hw/TicTacToe.java) (Due: Wednesday, 3/28/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
-<hr>
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 4/13/2018)
 * [Unit Testing Assignment]({{ site.baseurl }}/data/hw/JUnitExample.zip) (in-class assignment, 04/09/2018)
 * [Blackjack]({{ site.baseurl }}/data/hw/Blackjack.pdf) (Due: <strike>Wednesday, 4/25/2018</strike> <span style = "color:red">Monday, 4/30/2018</span>) (submit through [Blackboard](https://easternct.blackboard.com/))
     * Correction: the dealer hits if holding 16 or less 
 * Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 5/04/2018) (counts towards participation grade)
+<hr>
 * [Algorithm Assignment]({{ site.baseurl }}/data/hw/AlgorithmAssignment.pdf) (in-class 5/3)
 {% comment %}
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2018-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
