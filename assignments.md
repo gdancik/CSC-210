@@ -27,7 +27,7 @@ exclude_from_nav: false
     * Correction: the dealer hits if holding 16 or less 
 * Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 5/04/2018) (counts towards participation grade)
 <hr>
-* [Algorithm Assignment]({{ site.baseurl }}/data/hw/AlgorithmAssignment.pdf) (in-class 5/3)
+* [Algorithm Assignment]({{ site.baseurl }}/data/hw/AlgorithmAssignment.pdf) (in-class 5/4)
 {% comment %}
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2018-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
 
