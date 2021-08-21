@@ -3,7 +3,7 @@ layout: page
 title: Exams 
 full_title: Exam Information
 permalink: /exams/
-exclude_from_nav: false
+exclude_from_nav: true
 order: 4
 ---
 
