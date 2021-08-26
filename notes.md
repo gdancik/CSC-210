@@ -5,7 +5,7 @@ permalink: /notes/
 order: 2
 exclude_from_nav: false
 ---
-* [Chapter 1 Notes]({{ site.baseurl }}/data/notes/chapter1.pdf)
+* [Chapter 1 Notes]({{ site.baseurl }}/data/notes/Chapter1.pdf)
     - [sum.java]({{ site.baseurl }}/data/notes/sum.java)
 {% comment %}
 * [Chapter 2 Notes]({{ site.baseurl }}/data/notes/chapter2.zip)
