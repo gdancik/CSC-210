@@ -7,8 +7,8 @@ exclude_from_nav: false
 ---
 * [Chapter 1 Notes]({{ site.baseurl }}/data/notes/Chapter1.pdf)
     - [sum.java]({{ site.baseurl }}/data/notes/sum.java)
-{% comment %}
 * [Chapter 2 Notes]({{ site.baseurl }}/data/notes/chapter2.zip)
+{% comment %}
 * [Chapter 3 Notes]({{ site.baseurl }}/data/notes/chapter3.zip)
     * [Guessing Game Program]({{ site.baseurl }}/data/notes/guessingGame.java)
 * [Chapter 4 Notes]({{ site.baseurl }}/data/notes/chapter4.zip)
