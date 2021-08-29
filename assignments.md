@@ -10,8 +10,9 @@ exclude_from_nav: false
 	* Sign up for your zyBook at <a href = "http://zybooks.com">http://zybooks.com</a> using your Eastern e-mail address. The zyBook code can be found in the syllabus.
 	* Sign up for <a href = "http://www.piazza.com">Piazza</a> using your Eastern e-mail address. You will be getting an e-mail with more information shortly. 
 	* Install <a href = "https://eclipse.org">Eclipse </a> on your personal computer (Instructions under <a href = "http://gdancik.github.io/CSC-210/info/">Course Information</a>) 
+<hr style = "color: red; margin-bottom:5px;">
+* Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 9/08/2021)
 {% comment %}
-* Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 1/26/2018)
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 2/02/2018) 
 * Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 2/09/2018)
@@ -27,7 +28,6 @@ exclude_from_nav: false
 * [Blackjack]({{ site.baseurl }}/data/hw/Blackjack.pdf) (Due: <strike>Wednesday, 4/25/2018</strike> <span style = "color:red">Monday, 4/30/2018</span>) (submit through [Blackboard](https://easternct.blackboard.com/))
     * Correction: the dealer hits if holding 16 or less 
 * Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 5/04/2018) (counts towards participation grade)
-<hr>
 * [Algorithm Assignment]({{ site.baseurl }}/data/hw/AlgorithmAssignment.pdf) (in-class 5/4)
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2018-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
 
