@@ -9,5 +9,7 @@ order: 1
     * [Schedule a meeting during office hours](https://outlook.office365.com/owa/calendar/DrGarrettDancik@myeasternct.onmicrosoft.com/bookings/)
 * [How to Succeed in this Course]({{ site.baseurl }}/data/info/HowToSucceed.pdf)
 * [Installing and Running Java Programs Using Eclipse]({{ site.baseurl }}/data/info/Eclipse.pdf)
+* [zyBooks Grading]({{ site.baseurl }}/data/info/zyBooks.pdf)
+
 {% comment %}
 {% endcomment %}
