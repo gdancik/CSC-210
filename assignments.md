@@ -10,9 +10,9 @@ exclude_from_nav: false
 	* Sign up for your zyBook at <a href = "http://zybooks.com">http://zybooks.com</a> using your Eastern e-mail address. The zyBook code can be found in the syllabus.
 	* Sign up for <a href = "http://www.piazza.com">Piazza</a> using your Eastern e-mail address. You will be getting an e-mail with more information shortly. 
 	* Install <a href = "https://eclipse.org">Eclipse </a> on your personal computer (Instructions under <a href = "http://gdancik.github.io/CSC-210/info/">Course Information</a>) 
-<hr style = "color: red; margin-bottom:5px;">
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 9/08/2021)
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/10/2021) 
+<hr style = "color: red; margin-bottom:5px;">
 * Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/17/2021)
 {% comment %}
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
