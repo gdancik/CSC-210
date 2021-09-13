@@ -9,6 +9,7 @@ exclude_from_nav: false
     - [sum.java]({{ site.baseurl }}/data/notes/sum.java)
 * [Chapter 2 Notes]({{ site.baseurl }}/data/notes/chapter2.zip)
 * [Chapter 3 Notes]({{ site.baseurl }}/data/notes/chapter3.zip)
+    * [Temperature - Debugging Example]({{ site.baseurl }}/data/notes/temperature.java)
 {% comment %}
     * [Guessing Game Program]({{ site.baseurl }}/data/notes/guessingGame.java)
 * [Chapter 4 Notes]({{ site.baseurl }}/data/notes/chapter4.zip)
