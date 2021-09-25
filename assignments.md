@@ -12,12 +12,12 @@ exclude_from_nav: false
 	* Install <a href = "https://eclipse.org">Eclipse </a> on your personal computer (Instructions under <a href = "http://gdancik.github.io/CSC-210/info/">Course Information</a>) 
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 9/08/2021)
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/10/2021) 
-<hr style = "color: red; margin-bottom:5px;">
 * Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/17/2021)
+<hr style = "color: red; margin-bottom:5px;">
+* Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 10/06/2021)
 {% comment %}
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (in-class assignment, 2/09/2018)
-* Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 03/02/2018)
 * [Prime Number Assignments]({{ site.baseurl }}/data/hw/PrimeNumberAssignment.pdf) (Due: Wednesday, 3/7/2018, submit through [Blackboard](https://easternct.blackboard.com/)) 
 * [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Due: Friday, 3/09/2018, submit through [Blackboard](https://easternct.blackboard.com/)) 
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 3/23/2018)

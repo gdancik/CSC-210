@@ -11,8 +11,8 @@ exclude_from_nav: false
 * [Chapter 3 Notes]({{ site.baseurl }}/data/notes/chapter3.zip)
     * [Temperature - Debugging Example]({{ site.baseurl }}/data/notes/temperature.java)
     * [Guessing Game Program]({{ site.baseurl }}/data/notes/guessingGame.java)
-{% comment %}
 * [Chapter 4 Notes]({{ site.baseurl }}/data/notes/chapter4.zip)
+{% comment %}
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
 * [Chapter 5 Notes]({{ site.baseurl }}/data/notes/chapter5.zip)
 * [Chapter 6 Notes]({{ site.baseurl }}/data/notes/chapter6.zip)
