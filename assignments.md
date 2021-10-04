@@ -15,7 +15,7 @@ exclude_from_nav: false
 * Chapter 3 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 9/17/2021)
 <hr style = "color: red; margin-bottom:5px;">
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 10/06/2021)
-* [Prime Number Assignments]({{ site.baseurl }}/data/hw/primeNumbers.zip) (Completed in class; otherwise Due: Wednesday, 10/06/2021, submit through [Blackboard](https://easternct.blackboard.com/)) 
+* [Prime Number Assignments]({{ site.baseurl }}/data/hw/primeNumbers.zip) (Completed in class; otherwise due: Friday, 10/08/2021, submit through [Blackboard](https://easternct.blackboard.com/)) 
 {% comment %}
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (in-class assignment, 2/09/2018)
