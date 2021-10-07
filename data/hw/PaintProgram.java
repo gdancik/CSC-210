@@ -1,8 +1,10 @@
 /**********************************************************************
  * This is a 'paint' program that allows a user to paint to the screen
  * using some basic tools. In this assignment, you will use loops to
- * draw lines and squares. Follow the instructions in the FIX ME's in
- * the userDraw method (you should not modify any other code)
+ * draw lines and squares. Follow the instructions in the FIX ME's to 
+ * modify code in the userDraw method. You may also choose to 
+ * implement the mystery color in the keyPressed method. You should not
+ * modify any other code).
  * 
  * Name: 
  * 
@@ -93,6 +95,10 @@ public class PaintProgram implements ActionListener
                 		// the 'randGen' object that has been created for you (near the
                 		// top of the program)
                 	  
+                	
+                		// generates a random number between 1 - 10
+                		int r = randGen.nextInt(10) + 1;
+                	
                 		// set red, green, and blue values
                 		int red = 255;
                 		int green = 0;
@@ -123,7 +129,7 @@ public class PaintProgram implements ActionListener
 	}
 
     public static void main(String[] args) {    	       
-    		// launch program
+    	// launch program
         PaintProgram paint = new PaintProgram();        
     }
 
@@ -241,7 +247,8 @@ class PointPanel extends JPanel {
     		}
         	
     		/* FIX ME: Delete this output before submitting */
-    		System.out.println("User clicks at (" + x + "," + y + ") with selection of " + drawTool);
+    		System.out.println("User clicks at (" + x + "," + y + ") " + 
+    					"with selection of " + drawTool);
     	
     		/* FIX ME: Draw the appropriate shape depending on the selected tool, which
     		 * is stored in the String variable drawTool. Note: in all cases you will
@@ -255,14 +262,18 @@ class PointPanel extends JPanel {
     		 * Square - draw a filled-in square 41 pixels high and 41 pixels wide that is
     		 * 			centered at the selected point
     		 *	 		  
-    		 * Note #1: the width and height of the window are stored in 'width' and
+    		 * Note: the width and height of the window are stored in 'width' and
     		 * 		'height'
-    		 * Note #2: the code below (to be modified) will always draw a single 
-    		 * 		point at (x,y)
     		 */
     	   	
-    		addPoint(x,y);
-    	    	
+    		   			
+    		if (drawTool.equals("Point")) {  	   	
+    			addPoint(x,y);
+    			
+    		}
+    	
+    		
+    				    	    	
     }
 }
   
