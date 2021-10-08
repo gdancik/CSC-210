@@ -12,9 +12,9 @@ exclude_from_nav: false
     * [Temperature - Debugging Example]({{ site.baseurl }}/data/notes/temperature.java)
     * [Guessing Game Program]({{ site.baseurl }}/data/notes/guessingGame.java)
 * [Chapter 4 Notes]({{ site.baseurl }}/data/notes/chapter4.zip)
+* [Chapter 5 Notes]({{ site.baseurl }}/data/notes/chapter5.zip)
 {% comment %}
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
-* [Chapter 5 Notes]({{ site.baseurl }}/data/notes/chapter5.zip)
 * [Chapter 6 Notes]({{ site.baseurl }}/data/notes/chapter6.zip)
     * [Recursion]({{ site.baseurl }}/data/notes/recursion.zip)
 * [Chapter 7 Notes]({{ site.baseurl }}/data/notes/chapter7.zip)
