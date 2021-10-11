@@ -17,7 +17,7 @@ exclude_from_nav: false
 * [Prime Number Assignments]({{ site.baseurl }}/data/hw/primeNumbers.zip) (Completed in class; otherwise due: Friday, 10/08/2021, submit through [Blackboard](https://easternct.blackboard.com/)) 
 <hr style = "color: red; margin-bottom:5px;">
 * [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Completed in class; otherwise due: Wednesday, 10/13/2021, submit through [Blackboard](https://easternct.blackboard.com/)) 
-* Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 3/20/2021)
+* Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 10/13/2021)
 {% comment %}
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (in-class assignment, 2/09/2018)
