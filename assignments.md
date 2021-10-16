@@ -18,10 +18,10 @@ exclude_from_nav: false
 * [Paint Program]({{ site.baseurl }}/data/hw/PaintProgram.java) (Completed in class; otherwise due: Wednesday, 10/13/2021, submit through [Blackboard](https://easternct.blackboard.com/)) 
 <hr style = "color: red; margin-bottom:5px;">
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: <strike>Wednesday, 10/13/2021</strike><span style = "color:red">Friday, 10/22/2021</span>)
+* [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 10/25/2021, submit through [Blackboard](https://easternct.blackboard.com/)) 
 {% comment %}
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (in-class assignment, 2/09/2018)
-* [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 3/26/2018, submit through [Blackboard](https://easternct.blackboard.com/)) 
 * [Tic-Tac-Toe]({{ site.baseurl }}/data/hw/TicTacToe.java) (Due: Wednesday, 3/28/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 4/13/2018)
 * [Unit Testing Assignment]({{ site.baseurl }}/data/hw/JUnitExample.zip) (in-class assignment, 04/09/2018)
