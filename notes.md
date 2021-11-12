@@ -14,6 +14,7 @@ exclude_from_nav: false
 * [Chapter 4 Notes]({{ site.baseurl }}/data/notes/chapter4.zip)
 * [Chapter 5 Notes]({{ site.baseurl }}/data/notes/chapter5.zip)
 * [Chapter 6 Notes]({{ site.baseurl }}/data/notes/chapter6.zip)
+* [JUnit Testing Examples]({{ site.baseurl }}/data/notes/JUnitExample.zip)
 {% comment %}
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
     * [Recursion]({{ site.baseurl }}/data/notes/recursion.zip)
@@ -21,5 +22,4 @@ exclude_from_nav: false
 	* [Pong Program]({{ site.baseurl }}/data/notes/pong.zip)
 * [Algorithm Notes]({{ site.baseurl }}/data/notes/Algorithms.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/CSC-210-Wrap-Up.pdf)
-* [Unit Testing Examples]({{ site.baseurl }}/data/notes/JUnitExample.zip)
 {% endcomment %}

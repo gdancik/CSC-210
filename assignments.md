@@ -20,12 +20,12 @@ exclude_from_nav: false
 * [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 10/25/2021, submit through [Blackboard](https://easternct.blackboard.com/)) 
 <hr style = "color: red; margin-bottom:5px;">
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 11/15/2021)
+* [Unit Testing Assignment]({{ site.baseurl }}/data/hw/JUnitExample.zip) (Due: Wednesday, 11/17/2021, submit through [Blackboard](https://easternct.blackboard.com/))
 {% comment %}
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (in-class assignment, 2/09/2018)
 * [Tic-Tac-Toe]({{ site.baseurl }}/data/hw/TicTacToe.java) (Due: Wednesday, 3/28/2018) (submit through [Blackboard](https://easternct.blackboard.com/)) 
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 4/13/2018)
-* [Unit Testing Assignment]({{ site.baseurl }}/data/hw/JUnitExample.zip) (in-class assignment, 04/09/2018)
 * [Blackjack]({{ site.baseurl }}/data/hw/Blackjack.pdf) (Due: <strike>Wednesday, 4/25/2018</strike> <span style = "color:red">Monday, 4/30/2018</span>) (submit through [Blackboard](https://easternct.blackboard.com/))
     * Correction: the dealer hits if holding 16 or less 
 * Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 5/04/2018) (counts towards participation grade)
