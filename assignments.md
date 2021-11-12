@@ -20,7 +20,7 @@ exclude_from_nav: false
 * [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 10/25/2021, submit through [Blackboard](https://easternct.blackboard.com/)) 
 <hr style = "color: red; margin-bottom:5px;">
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 11/15/2021)
-* [Unit Testing Assignment]({{ site.baseurl }}/data/hw/JUnitExample.zip) (Due: Wednesday, 11/17/2021, submit through [Blackboard](https://easternct.blackboard.com/))
+* [Unit Testing Assignment]({{ site.baseurl }}/data/hw/rectangleUnitTestAssignment.zip) (Due: Wednesday, 11/17/2021, submit through [Blackboard](https://easternct.blackboard.com/))
 {% comment %}
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (in-class assignment, 2/09/2018)
