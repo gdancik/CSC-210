@@ -21,6 +21,7 @@ exclude_from_nav: false
 <hr style = "color: red; margin-bottom:5px;">
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 11/15/2021)
 * [Unit Testing Assignment]({{ site.baseurl }}/data/hw/rectangleUnitTestAssignment.zip) (Due: Wednesday, 11/17/2021, submit through [Blackboard](https://easternct.blackboard.com/))
+* [Text Editor Project]({{ site.baseurl }}/data/hw/textEditor.zip)
 {% comment %}
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (in-class assignment, 2/09/2018)
