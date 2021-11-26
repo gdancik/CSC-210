@@ -19,8 +19,8 @@ exclude_from_nav: false
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: <strike>Wednesday, 10/13/2021</strike><span style = "color:red">Friday, 10/22/2021</span>)
 * [Door Program]({{ site.baseurl }}/data/hw/doorProgram.zip) (Due: Monday, 10/25/2021, submit through [Blackboard](https://easternct.blackboard.com/)) 
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Monday, 11/15/2021)
-<hr style = "color: red; margin-bottom:5px;">
 * [Unit Testing Assignment]({{ site.baseurl }}/data/hw/rectangleUnitTestAssignment.zip) (Due: Wednesday, 11/17/2021, submit through [Blackboard](https://easternct.blackboard.com/))
+<hr style = "color: red; margin-bottom:5px;">
 * [Text Editor Project]({{ site.baseurl }}/data/hw/textEditor.zip) (Due: Wednesday, 12/1/2021, submit through [Blackboard](https://easternct.blackboard.com))
 * Chapter 7 zyBook Participation Only (Optional, Due: Monday, 12/06/2021)
 {% comment %}
