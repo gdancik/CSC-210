@@ -22,6 +22,7 @@ exclude_from_nav: false
 <hr style = "color: red; margin-bottom:5px;">
 * [Unit Testing Assignment]({{ site.baseurl }}/data/hw/rectangleUnitTestAssignment.zip) (Due: Wednesday, 11/17/2021, submit through [Blackboard](https://easternct.blackboard.com/))
 * [Text Editor Project]({{ site.baseurl }}/data/hw/textEditor.zip) (Due: Wednesday, 12/1/2021, submit through [Blackboard](https://easternct.blackboard.com))
+* Chapter 7 zyBook Participation Only (Optional, Due: Monday, 12/06/2021)
 {% comment %}
 * Respond to the question on <a href = "http://www.piazza.com">Piazza</a> by Monday, 1/29, 11:00 AM 
 * [Rock, Paper, Scissors Program]({{ site.baseurl }}/data/hw/RPS.java) (in-class assignment, 2/09/2018)
@@ -29,7 +30,6 @@ exclude_from_nav: false
 * Chapter 6 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 4/13/2018)
 * [Blackjack]({{ site.baseurl }}/data/hw/Blackjack.pdf) (Due: <strike>Wednesday, 4/25/2018</strike> <span style = "color:red">Monday, 4/30/2018</span>) (submit through [Blackboard](https://easternct.blackboard.com/))
     * Correction: the dealer hits if holding 16 or less 
-* Chapter 7 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 5/04/2018) (counts towards participation grade)
 * [Algorithm Assignment]({{ site.baseurl }}/data/hw/AlgorithmAssignment.pdf) (in-class 5/4)
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2018-Program.pdf) - Attend one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) 
 
