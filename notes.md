@@ -15,10 +15,10 @@ exclude_from_nav: false
 * [Chapter 5 Notes]({{ site.baseurl }}/data/notes/chapter5.zip)
 * [Chapter 6 Notes]({{ site.baseurl }}/data/notes/chapter6.zip)
 * [JUnit Testing Examples]({{ site.baseurl }}/data/notes/JUnitExample.zip)
+* [Chapter 7 Notes]({{ site.baseurl }}/data/notes/chapter7.zip)
 {% comment %}
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
     * [Recursion]({{ site.baseurl }}/data/notes/recursion.zip)
-* [Chapter 7 Notes]({{ site.baseurl }}/data/notes/chapter7.zip)
 	* [Pong Program]({{ site.baseurl }}/data/notes/pong.zip)
 * [Algorithm Notes]({{ site.baseurl }}/data/notes/Algorithms.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/CSC-210-Wrap-Up.pdf)
