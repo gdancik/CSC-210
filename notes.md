@@ -17,9 +17,9 @@ exclude_from_nav: false
 * [JUnit Testing Examples]({{ site.baseurl }}/data/notes/JUnitExample.zip)
 * [Chapter 7 Notes]({{ site.baseurl }}/data/notes/chapter7.zip)
 	* [Pong Program]({{ site.baseurl }}/data/notes/pong.zip)
+* [Wrap Up]({{ site.baseurl }}/data/notes/CSC-210-Wrap-Up.pdf)
 {% comment %}
 * [Poll Everywhere Questions]({{ site.baseurl }}/data/notes/PollEverywhereLoops.pdf)
     * [Recursion]({{ site.baseurl }}/data/notes/recursion.zip)
 * [Algorithm Notes]({{ site.baseurl }}/data/notes/Algorithms.pdf)
-* [Wrap Up]({{ site.baseurl }}/data/notes/CSC-210-Wrap-Up.pdf)
 {% endcomment %}
