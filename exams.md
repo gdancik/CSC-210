@@ -11,8 +11,7 @@ order: 4
     * [Exam I Practice]({{ site.baseurl }}/data/exams/ExamIPractice.pdf)
 * [Exam II Practice Material]({{ site.baseurl }}/data/exams/ExamIIOutline.pdf)
     * [Exam II Review]({{ site.baseurl }}/data/exams/examII.java)
-
-{% comment %}
-* [Exam III Practice Material]({{ site.baseurl }}/data/exams/examIIIPractice.zip)
+* [Exam III Outline]({{ site.baseurl }}/data/exams/ExamIIIOutline.pdf)
+    * [Multiple Choice Practice]({{ site.baseurl }}/data/exams/MC_practice.pdf)
 {% endcomment %}
 
