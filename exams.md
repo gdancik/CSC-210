@@ -13,5 +13,6 @@ order: 4
     * [Exam II Review]({{ site.baseurl }}/data/exams/examII.java)
 * [Exam III Outline]({{ site.baseurl }}/data/exams/ExamIIIOutline.pdf)
     * [Multiple Choice Practice]({{ site.baseurl }}/data/exams/MC_practice.pdf)
+{% comment %}
 {% endcomment %}
 
